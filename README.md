@@ -2,4 +2,4 @@
 
 [qemu](https://github.com/foxsen/qemu-loongarch-runenv)
 
-[gdb](http://foxsen.3322.org:33336/xuhuai/gdb)
+[gdb](https://github.com/aoooos/gdb-for-loongarch)
